@@ -1,1 +1,22 @@
+Libraries Import:
 
+Import necessary libraries: numpy, pandas, matplotlib, seaborn, and scikit-learn.
+Data Loading and Preprocessing:
+
+Load the 'Heart Disease data.csv' file into a DataFrame.
+Drop rows with missing values.
+Normalize the 'age' column.
+Exploratory Data Analysis:
+
+Calculate and print the overall heart disease rate.
+Visualize heart disease distribution by gender using a count plot.
+Visualize heart disease distribution by age using a histogram.
+Calculate and display the correlation matrix with a heatmap.
+Data Saving:
+
+Save the cleaned DataFrame to 'cleaned_heart_disease_data.csv'.
+Additional Analysis:
+
+Calculate and print the mean age of patients with heart disease.
+Visualize cholesterol levels by heart disease presence using a boxplot.
+Visualize heart disease rates by gender using a count plot with customized labels.
