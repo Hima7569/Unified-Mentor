@@ -1,1 +1,24 @@
+Data Loading and Initial Exploration:
 
+Load the dataset.
+Display basic information and summary statistics.
+Check for and handle missing values in the 'Production' column.
+Data Encoding and Correlation Analysis:
+
+Encode categorical features.
+Calculate and visualize the correlation matrix using a heatmap.
+Exploratory Data Analysis:
+
+Display unique counts for states, districts, and crop years.
+Visualize distributions using boxplots and bar plots.
+Zone Mapping:
+
+Map states to specific zones and visualize their distributions.
+Crop Categorization:
+
+Categorize crops into predefined categories and visualize the counts.
+Production Analysis:
+
+Analyze and visualize yearly production, production by state in the south zone, and seasonal production.
+Create a crosstab of zones and crop categories.
+Visualize top crop categories and overall crop production using bar plots and pie charts.
